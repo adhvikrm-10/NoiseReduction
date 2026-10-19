@@ -9,7 +9,7 @@ This project performs noise reduction on speech signals using a hybrid approach 
 The system processes `.wav` audio files and outputs a cleaned version of the signal.
 
 ## Dataset
-NOIZEUS dataset (real-world noisy speech samples)
+NOIZEUS dataset (real-world noisy speech samples).
 
 ## Key Features
 - LMS Adaptive Predictor (Adaptive Line Enhancer)
